@@ -1,28 +1,39 @@
 # robots.txt for THE QUEEN BOUQUET
-# Website: https://thequeenbouquet.vercel.app
+# Website: https://malangshop.web.id
 
 User-agent: *
 Allow: /
 
-# AI Overviews, Search & LLM Crawlers (GEO Optimization)
-User-agent: GPTBot
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: PerplexityBot
+# Google Search and AI Overviews
+User-agent: Googlebot
 Allow: /
 
 User-agent: Google-Extended
 Allow: /
 
-User-agent: CCBot
+# AI search and assistant crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
 Allow: /
 
 User-agent: Applebot-Extended
 Allow: /
 
-# Sitemap & LLMs Manifest
-Sitemap: https://thequeenbouquet.vercel.app/sitemap.xml
+User-agent: CCBot
+Allow: /
 
+Sitemap: https://malangshop.web.id/sitemap.xml

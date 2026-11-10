@@ -10,7 +10,7 @@
 - **Nomor Telepon**: 0896-8270-2708
 - **WhatsApp Resmi**: 0857-3735-6833 (https://wa.me/6285737356833)
 - **Toko Shopee Resmi**: https://id.shp.ee/XTAJ1WGo
-- **Situs Resmi**: https://thequeenbouquet.vercel.app
+- **Situs Resmi**: https://malangshop.web.id
 - **Rentang Harga Produk**: Rp15.000 hingga Rp450.000
 
 ## Keunggulan & Prinsip E-E-A-T
@@ -67,10 +67,10 @@ Pemesanan buket bunga custom di THE QUEEN BOUQUET sangat mudah: hubungi WhatsApp
 THE QUEEN BOUQUET beroperasi setiap hari mulai pukul 08.00 hingga 20.00 WIB untuk melayani konsultasi pemesanan, perakitan buket, serta pengiriman pesanan ke seluruh wilayah Malang Raya.
 
 ## Struktur URL Halaman Penting
-- Beranda: https://thequeenbouquet.vercel.app/
-- Katalog Lengkap: https://thequeenbouquet.vercel.app/katalog.html
-- Layanan Florist: https://thequeenbouquet.vercel.app/layanan.html
-- Tentang Kami: https://thequeenbouquet.vercel.app/about.html
-- Kontak Kami: https://thequeenbouquet.vercel.app/kontak.html
-- Blog & Edukasi: https://thequeenbouquet.vercel.app/blog.html
+- Beranda: https://malangshop.web.id/
+- Katalog Lengkap: https://malangshop.web.id/katalog.html
+- Layanan Florist: https://malangshop.web.id/layanan.html
+- Tentang Kami: https://malangshop.web.id/about.html
+- Kontak Kami: https://malangshop.web.id/kontak.html
+- Blog & Edukasi: https://malangshop.web.id/blog.html
 
